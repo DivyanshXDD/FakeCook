@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+.formMain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: aqua;
+    font-size: 30px;
+
+}
+
+label{
+    font-size: 55px;
+}
+
+.formMain input{
+    background: transparent;
+    border: 0;
+    padding: 0;
+    color: aqua ;
+    margin: 0;
+    font-size: 22px;
+}
+
+hr{
+    margin: 0;
+    padding: 0;
+}
+
+.forFormUpdate{
+    width: 20%;
+}

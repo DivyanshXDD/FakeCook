@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+#loginPageMainSec{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#loginForm{
+    display: flex;
+    flex-direction: column;
+}
+
+.mainBtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+
+form label{
+    font-size: 0.8cm;
+    color: aqua;
+}
+
+form input{
+    background: transparent;
+    border: 0;
+    padding: 0;
+    color: aqua ;
+    margin: 0;
+    font-size: 22px;
+}
+
+#form-register{
+    height: 100vh;
+    color: aqua;
+}
+
+section{
+    background-color: black;
+}
+
+form hr{
+    height: 2px;
+    color: aqua;
+    margin: 0px;
+}

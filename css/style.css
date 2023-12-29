@@ -1,0 +1,72 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+label{
+    font-size: 0.6cm;
+
+}
+
+.container{
+    height: 100vh;
+}
+
+.form-register{
+    height: 100vh;
+    color: aqua;
+    display: flex;
+    align-items: center;
+}
+
+.subBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+/* #register-form{
+
+    
+} */
+
+#mainSecBSec{
+    background-color: black;
+}
+
+input{
+    background: transparent;
+    border: 0;
+    padding: 0;
+    color: aqua ;
+    margin: 0;
+    font-size: 22px;
+}
+
+hr{
+    height: 3px;
+    margin: 0;
+    color: aqua;
+}
+
+.ulHeaderpage {
+    list-style: none;
+    font-size: 30px;
+    padding: 10px;
+    text-decoration: none;
+}
+.ulHeaderpage li a {
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+}
+
+header{
+    background-color: rgba(0, 255, 255, 0.84);
+}

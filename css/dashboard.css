@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    display: flex;
+    justify-content:start;
+    align-items: center;
+    background-color: aqua;
+    color: white;
+}
+
+.nav-bar-main ul li {
+    list-style: none;
+}
+
+.imgProfilePicUser{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
