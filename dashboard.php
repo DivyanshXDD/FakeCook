@@ -57,8 +57,9 @@ if ($result->num_rows == 1) {
                      <ul class="d-flex gap-3 list-style-none align-items-center p-0 m-0 uldashboard">
                          <li><a class="btn btn-outline-dark" href="updatedata.php">Update</a></li>
                          <li><a class="btn btn-outline-dark" href="makepost.php">Create New Post</a></li>
-                         <li><a class="btn btn-outline-dark" href="">See My Post</a></li>
-                         <li><a class="btn btn-outline-dark" href="">See All Post</a></li>
+                         <li><a class="btn btn-outline-dark" href="seemypost.php">See My Post</a></li>
+                         <li><a class="btn btn-outline-dark" href="seeallpost.php">See All Post</a></li>
+                         <li><a class="btn btn-outline-dark" href="message.php">Message</a></li>
                      </ul>
                 </div>
                 <div class="d-flex justify-content-end align-items-center gap-2 w-50 px-3">

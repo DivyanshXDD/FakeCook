@@ -35,4 +35,3 @@ function check_username_exist ( $username ,$user_id,  $conn ){
     }
     return $error;
 }
-
